@@ -794,6 +794,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ffe6adc62301402a8a2564c095caf04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 200c39548738a46d2b875018059782f1, type: 2}
+  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
   computeShader: {fileID: 7200000, guid: 54a395353984647c99eaa880e8783539, type: 3}
   resolution: 10
   function: 0
