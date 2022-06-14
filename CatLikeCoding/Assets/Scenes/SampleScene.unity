@@ -464,7 +464,6 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
-  m_VolumeFrameworkUpdateModeOption: 2
   m_RenderPostProcessing: 0
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
@@ -796,13 +795,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   computeShader: {fileID: 7200000, guid: 54a395353984647c99eaa880e8783539, type: 3}
-  material: {fileID: 2100000, guid: 200c39548738a46d2b875018059782f1, type: 2}
-  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
   resolution: 10
   function: 0
   transitionMode: 0
   functionDuration: 1
   transitionDuration: 0
+  addRandom: 0
+  randomness: 0
 --- !u!1 &1844062871
 GameObject:
   m_ObjectHideFlags: 0
