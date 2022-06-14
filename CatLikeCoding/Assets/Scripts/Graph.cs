@@ -22,7 +22,7 @@ public class Graph : MonoBehaviour
     [SerializeField, Range(0,1)]
     float randomness;
 
-    [SerializeField, Range(10, 200)]
+    [SerializeField, Range(10, 100)]
     int resolution = 10;
 
     [SerializeField]
